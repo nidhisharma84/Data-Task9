@@ -1,0 +1,10 @@
+analysis_type,dimension,value,total_sales
+Sales by Region,Region,East,120000
+Sales by Region,Region,West,95000
+Sales by Region,Region,Central,87000
+Sales by Category,Category,Technology,140000
+Sales by Category,Category,Furniture,90000
+Sales by Category,Category,Office Supplies,72000
+Monthly Sales,Month,January,32000
+Monthly Sales,Month,February,28000
+Monthly Sales,Month,March,35000
