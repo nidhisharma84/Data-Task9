@@ -40,4 +40,4 @@ Retail Sales Dataset (CSV)
 - Data validation and integrity
 
 ## Author
-Sneha Singh
+Nidhi Sharma
